@@ -2,15 +2,34 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Video</title>
 
     <!-- Css -->
-    <link rel="stylesheet" href="./assets/css/main.css">
+    <link rel="stylesheet" href="./assets/css/main.css" />
 </head>
 
 <body>
+    <!-- Preloader -->
+    <div class="preloader">
+        <img src="./video/preloader.gif" alt="preloader" class="preloader__item" />
+    </div>
+
+    <!-- Header Start -->
+    <header>
+        <video controls muted autoplay loop class="video-container">
+            <source src="./video/video.mp4" type="video/mp4" />
+        </video>
+        <h1>video project</h1>
+        <!-- Video Switch -->
+        <button class="switch-btn">
+            <span> play </span>
+            <span> pause </span>
+            <span class="switch"></span>
+        </button>
+    </header>
+    <!-- Header End -->
 
     <!-- Js -->
     <script src="./assets/js/main.js"></script>
