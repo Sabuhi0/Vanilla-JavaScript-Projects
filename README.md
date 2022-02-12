@@ -21,7 +21,7 @@
 
 <!-- Modal -->
 ## [06.Modal](https://github.com/Sabuhi0/Vanilla-JavaScript-Projects/tree/main/06-modal)
-![Sidebar](https://user-images.githubusercontent.com/62444892/153713990-a8dcc22b-2057-472c-93d0-a8135bdb08c3.gif)
+![Sidebar](https://user-images.githubusercontent.com/62444892/153716167-0a809954-a94f-4d26-8388-8f9724564bc6.gif)
 
 <!-- Video -->
 ## [07.Video](https://github.com/Sabuhi0/Vanilla-JavaScript-Projects/tree/main/07-video)
@@ -45,7 +45,7 @@
 
 <!-- To Do List -->
 ## [12.To Do List](https://github.com/Sabuhi0/Vanilla-JavaScript-Projects/tree/main/13-grocery-bud)
-![To-DoList](https://user-images.githubusercontent.com/62444892/153714488-ce8bfbe4-8379-4139-b643-dce6f6de4b1c.gif)
+![To-DoList](https://user-images.githubusercontent.com/62444892/153716203-0ee6a55f-305b-470e-866d-a03a58962fad.gif)
 
 <!-- Slider -->
 ## [12.Slider](https://github.com/Sabuhi0/Vanilla-JavaScript-Projects/tree/main/14-slider)
