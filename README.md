@@ -1,4 +1,4 @@
-# <h1 align="center">Hello Vanilla-JavaScript-Projects</h1>
+# <h1 align="center">Vanilla-JavaScript-Projects</h1>
 <!-- Color Filipper -->
 ## [01.Color-Flipper](https://github.com/Sabuhi0/Vanilla-JavaScript-Projects/tree/main/01-color-flipper)
 ![Color-Flipper](https://user-images.githubusercontent.com/62444892/153713748-1f7dcfd4-fcdc-4b6d-89e1-663b9bc274f0.gif)
